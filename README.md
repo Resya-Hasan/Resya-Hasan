@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Resya 👋
 
-<!--
-**Resya-Hasan/Resya-Hasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Fullstack Developer  
+🧠 Interested in AI, Backend Architecture, Scalable Systems  
+📍 Indonesia  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- Backend: Express.js, Sequelize, PostgreSQL
+- Frontend: React.js, Redux, Bootstrap
+- Testing: Jest, Supertest
+- Tools: Git, Postman
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Kerja Aman
+AI-powered career roadmap platform  
+Tech: React + Express + PostgreSQL + OpenAI API  
+
+### 🔹 Coffee Shop Backend
+REST API with authentication & role-based access  
+Tech: Express + Sequelize + PostgreSQL  
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: (isi nanti)
+- Email: (isi nanti)
