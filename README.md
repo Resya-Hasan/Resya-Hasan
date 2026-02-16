@@ -13,19 +13,3 @@
 - Tools: Git, Postman
 
 ---
-
-## 🚀 Featured Projects
-
-### 🔹 Kerja Aman
-AI-powered career roadmap platform  
-Tech: React + Express + PostgreSQL + OpenAI API  
-
-### 🔹 Coffee Shop Backend
-REST API with authentication & role-based access  
-Tech: Express + Sequelize + PostgreSQL  
-
----
-
-## 📫 Connect With Me
-- LinkedIn: (isi nanti)
-- Email: (isi nanti)
